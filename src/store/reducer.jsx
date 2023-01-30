@@ -28,3 +28,4 @@ export const  Store =  configureStore({
         Task : Task.reducer
     }
 });
+//export const {AddTask , AddTask ,UpdatTask} = Task.action
